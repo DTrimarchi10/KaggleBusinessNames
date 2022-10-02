@@ -60,8 +60,8 @@ It is possible to perform stemming analysis on the company names to draw further
 <details><summary>USE DROPDOWN</summary>
 
 **All Python work is contained in the following files**:
-* **[./Business Names.ipynb](./Business Names.ipynb)**
-  * A jupyter notebook containing code which reads the kaggle csv file and performs basic data cleaning. This notebook also contains all of the exploratory data analysis of the company business names (word counts and common word chars). It will gather a list of businesses and business information using a search phrase and location. The scraper will then gather all reviews posted for each business found in the initial query. Data is formatted and saved in two csv files: **business_info.csv** and **reviews.csv**.
+* **[Business%20Names.ipynb](Business%20Names.ipynb)**
+  * A jupyter notebook containing code which reads the kaggle csv file and performs basic data cleaning. This notebook also contains all of the exploratory data analysis of the company business names (word counts and common word charts).
   
 **Data Files**
 * **[./dataset/companies_sorted.csv](./dataset/companies_sorted.csv)**
