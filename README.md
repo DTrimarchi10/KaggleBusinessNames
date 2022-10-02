@@ -60,13 +60,13 @@ It is possible to perform stemming analysis on the company names to draw further
 <details><summary>USE DROPDOWN</summary>
 
 **All Python work is contained in the following files**:
-* **[Business%20Names.ipynb](Business%20Names.ipynb)**
+* **[Business Names.ipynb](Business%20Names.ipynb)**
   * A jupyter notebook containing code which reads the kaggle csv file and performs basic data cleaning. This notebook also contains all of the exploratory data analysis of the company business names (word counts and common word charts).
   
 **Data Files**
-* **[./dataset/companies_sorted.csv](./dataset/companies_sorted.csv)**
+* **./dataset/companies_sorted.csv**
   * This is the Kaggle raw dataset. It is not included in the github repository.
-* **[./dataset/companies_sorted_subset_cleaned.csv](./dataset/companies_sorted_subset_cleaned.csv)**
+* **./dataset/companies_sorted_subset_cleaned.csv**
   * Contains the downselected, cleaned and tokenized data from the original Kaggle dataset. It is not included in the github repository.
   
 **Output Files**
